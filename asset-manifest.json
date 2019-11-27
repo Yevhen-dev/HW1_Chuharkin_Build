@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/HW1_Chuharkin_Build/static/css/main.51b39e3b.chunk.css",
+    "main.js": "/HW1_Chuharkin_Build/static/js/main.2c6dddd9.chunk.js",
+    "runtime-main.js": "/HW1_Chuharkin_Build/static/js/runtime-main.35a960eb.js",
+    "static/js/2.511d3a3a.chunk.js": "/HW1_Chuharkin_Build/static/js/2.511d3a3a.chunk.js",
+    "index.html": "/HW1_Chuharkin_Build/index.html",
+    "precache-manifest.0c7a4d849fb743e048e42cbb86938267.js": "/HW1_Chuharkin_Build/precache-manifest.0c7a4d849fb743e048e42cbb86938267.js",
+    "service-worker.js": "/HW1_Chuharkin_Build/service-worker.js",
+    "static/media/github-logo.svg": "/HW1_Chuharkin_Build/static/media/github-logo.76d344f0.svg",
+    "static/media/photo.png": "/HW1_Chuharkin_Build/static/media/photo.e45d9d1f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35a960eb.js",
+    "static/js/2.511d3a3a.chunk.js",
+    "static/css/main.51b39e3b.chunk.css",
+    "static/js/main.2c6dddd9.chunk.js"
+  ]
+}
